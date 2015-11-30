@@ -21,8 +21,8 @@ $ git clone https://github.com/nikogu/zhuang.git
 1. git clone https://github.com/nikogu/zhuang.git
 2. cd zhuang
 3. custom it to your own app
-4. open https://travis-ci.org/profile/ to run test
-5. open https://coveralls.io/ to run coveralls
+4. open https://travis-ci.org/profile/ to run test & remember re-sync the repos
+5. open https://coveralls.io/ to run coveralls & remember re-sync the repos
 6. perfect
 ```
     

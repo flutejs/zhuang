@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "The Professional Node module example",
   "main": "lib/index.js",
+  "engines": {
+    "node": "0.10.0"
+  },
   "scripts": {
     "test": "webpack && BABEL_JEST_STAGE=0 jest",
     "build": "webpack",
