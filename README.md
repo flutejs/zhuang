@@ -12,13 +12,16 @@ The Professional Node module example.
 ## Install
 
 ```bash
-$ npm install zhuang -g
+$ git clone https://github.com/nikogu/zhuang.git
 ```
     
 ## Usage
     
-```bash
-$ sudo zhuang 
+```
+1. git clone https://github.com/nikogu/zhuang.git
+2. cd zhuang
+3. custom config
+4. open https://travis-ci.org/
 ```
     
 ## Exp
