@@ -1,9 +1,22 @@
 ## The Professional Node module example
 
-[![Build Status](https://travis-ci.org/nikogu/zhuang.svg)](https://travis-ci.org/nikogu/zhuang)
-[![Coverage Status](https://coveralls.io/repos/nikogu/zhuang/badge.svg?branch=master&service=github)](https://coveralls.io/github/nikogu/zhuang?branch=master)
-[![NPM version](https://img.shields.io/npm/v/zhuang.svg?style=flat)](https://npmjs.org/package/zhuang)
-[![NPM downloads](http://img.shields.io/npm/dm/zhuang.svg?style=flat)](https://npmjs.org/package/zhuang)
+[![Build Status][ci-img]][ci-url]
+[![Coverage Status][cover-img]](cover-url)
+[![NPM version][npm-version]][npm-url]
+[![NPM downloads][npm-download]][npm-url]
+[![Node version][node-version][npm-url]
+
+[ci-img]: https://travis-ci.org/nikogu/zhuang.svg
+[ci-url]: https://travis-ci.org/nikogu/zhuang
+
+[cover-img]: https://coveralls.io/repos/nikogu/zhuang/badge.svg?branch=master&service=github
+[cover-url]: https://coveralls.io/github/nikogu/zhuang?branch=master
+
+[npm-version](https://img.shields.io/npm/v/zhuang.svg?style=flat)
+[npm-download](http://img.shields.io/npm/dm/zhuang.svg?style=flat)
+[npm-url](https://npmjs.org/package/zhuang)
+
+[node-version](https://img.shields.io/badge/node.js-%3E=_0.10-green.svg?style=flat-square)
     
 The Professional Node module example.
     
