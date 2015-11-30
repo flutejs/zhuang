@@ -1,7 +1,7 @@
 ## The Professional Node module example
 
 [![Build Status][ci-img]][ci-url]
-[![Coverage Status][cover-img]](cover-url)
+[![Coverage Status][cover-img]][cover-url]
 [![NPM version][npm-version]][npm-url]
 [![NPM downloads][npm-download]][npm-url]
 [![Node version][node-version][npm-url]
