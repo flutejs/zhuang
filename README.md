@@ -4,7 +4,7 @@
 [![Coverage Status][cover-img]][cover-url]
 [![NPM version][npm-version]][npm-url]
 [![NPM downloads][npm-download]][npm-url]
-[![Node version][node-version][npm-url]
+[![Node version][node-version]][npm-url]
 
 [ci-img]: https://travis-ci.org/nikogu/zhuang.svg
 [ci-url]: https://travis-ci.org/nikogu/zhuang
