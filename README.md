@@ -23,6 +23,7 @@ $ git clone https://github.com/nikogu/zhuang.git
 3. custom it to your own app
 4. open https://travis-ci.org/profile/ to run test
 5. open https://coveralls.io/ to run coveralls
+6. perfect
 ```
     
 ## Exp
