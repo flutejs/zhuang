@@ -1,9 +1,12 @@
 var webpack = require('webpack')
+var fs = require('fs')
 
 module.exports = {
   entry: {
     index: './src/add.js'
   },
+
+  externals:fs.readdirSync("node_modules"),
 
   module: {
     loaders: [
