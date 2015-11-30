@@ -36,13 +36,7 @@ $ git clone https://github.com/nikogu/zhuang.git
 3. custom it to your own app
 4. open https://travis-ci.org/profile/ to run test & remember re-sync the repos
 5. open https://coveralls.io/ to run coveralls & remember re-sync the repos
-6. perfect
-```
-    
-## Exp
-    
-```bash
-sudo zhuang xxx 
+6. write your code
 ```
 
 ## License
