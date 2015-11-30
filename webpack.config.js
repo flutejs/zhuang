@@ -2,17 +2,17 @@ var webpack = require('webpack')
 
 module.exports = {
   entry: {
-    index:'./src/add.js'
+    index: './src/add.js'
   },
 
   module: {
     loaders: [
-      { 
-        test:/\.js$/,
+      {
+        test: /\.js$/,
         exclude: /node_modules/,
         loader: 'babel-loader',
         query: {
-          stage:0
+          stage: 0
         }
       }
     ]
@@ -20,11 +20,11 @@ module.exports = {
   output: {
     path: "./lib",
     filename: '[name].js',
-    libraryTarget:'commonjs2',
+    libraryTarget: 'commonjs2'
   },
 
   plugins: [
-    new webpack.optimize.UglifyJsPlugin({beautify:true})
+    new webpack.optimize.UglifyJsPlugin({beautify: true})
   ]
 
 }

@@ -1,8 +1,8 @@
 import add from '../lib/index'
 
-describe('add', function() {
+describe('add', ()=> {
 
-  it('add', function() {
+  it('add', ()=> {
 
     console.log(add(1,2,3,4))
 
